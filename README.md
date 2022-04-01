@@ -1,7 +1,6 @@
 # my-comics
 
-Para ejecutar la prueba e interactuar con ella, solo debe ejecutar la siguiente url xxxxxxxxxxxx en su navegador,
-si lo desea realizar de manera local debera descargar el proyecto e instalar algunos plugin y dependencias con las que cuenta el proyecto.
+Para ejecutar la prueba e interactuar con ella, solo debe ejecutar la siguiente url https://ccgarciap4.github.io/my-comics/#/Main en su navegador, si lo desea realizar en modo desarrollador siga las siguientes instrucciones.
 
 ## developer mode
 
