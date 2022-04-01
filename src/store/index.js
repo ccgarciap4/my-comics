@@ -21,7 +21,7 @@ export default new Vuex.Store({
   actions: {
     getInfoComic({ commit }) {
       const numberComic = parseInt(Math.random() * (2592 - 1) + 1);
-      let url = "http://comic.bhxq-tl6g.accessdomain.com/";
+      let url = "https://comic.bhxq-tl6g.accessdomain.com/";
       console.log(numberComic);
       axios.post(url, { numberComic: numberComic }).then((response) => {
         console.log(response);
