@@ -46,5 +46,5 @@ npm run build  se debe  utilizar para la construcción/preparación  del proyect
 ### Lints and fixes files
 
 ```
-npm run lint,  se debe utilizar para la correción de errores del codigo de formato.
+npm run lint,  se debe utilizar para la correción de errores del codigo.
 ```
